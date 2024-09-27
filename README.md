@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Om Keshri</h1>
 <h3 align="center">A passionate Web Engineer</h3>
-- 👨‍💻 All of my projects are available at **https://github.com/omkeshri**
-- 💬 Ask me about **anything, will try my best to help.**
-- 📫 How to reach me **omkeshri21@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://github.com/omkeshri](https://github.com/omkeshri)
+- 💬 Ask me about **anything, I'll try my best to help.**
+- 📫 How to reach me: **omkeshri21@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/omkeshari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/omkeshri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
