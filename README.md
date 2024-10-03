@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Keshri</h1>
 <h3 align="center">A Passionate Web Engineer<br>
-  <a href="https://omkeshri-portfolio.web.app" target="_blank">omkeshri-portfolio</a>
+  <a href="https://omkeshri-portfolio.web.app">omkeshri-portfolio</a>
 </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkeshri](https://github.com/omkeshri)
