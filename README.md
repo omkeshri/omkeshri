@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Keshri</h1>
-<h3 align="center">A passionate Web Engineer<br>
+<h3 align="center">A Passionate Web Engineer<br>
   <a href="https://omkeshri-portfolio.web.app" target="_blank">omkeshri-portfolio</a>
 </h3>
 
