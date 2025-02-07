@@ -3,7 +3,7 @@
   <a href="https://omkeshri-portfolio.web.app">omkeshri-portfolio</a>
 </h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/omkeshri](https://github.com/omkeshri)
+- 👨‍💻 All of my projects are available [here](https://github.com/omkeshri?tab=repositories)
 - 💬 Ask me about anything, **I'll try my best to help.**
 - 📫 How to reach me: **omkeshri21@gmail.com**
   
